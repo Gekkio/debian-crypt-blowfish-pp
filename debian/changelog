@@ -1,3 +1,10 @@
+libcrypt-blowfish-pp-perl (1.12-1~gekkio1~precise1) precise; urgency=low
+
+  * Backport to Precise.
+  * Relax debhelper version requirement
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Mon, 24 Mar 2014 14:22:21 +0200
+
 libcrypt-blowfish-pp-perl (1.12-1~gekkio1) trusty; urgency=low
 
   * Initial Release.
