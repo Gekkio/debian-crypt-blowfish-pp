@@ -1,0 +1,5 @@
+libcrypt-blowfish-pp-perl (1.12-1~gekkio1) trusty; urgency=low
+
+  * Initial Release.
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Mon, 24 Mar 2014 13:18:07 +0200
